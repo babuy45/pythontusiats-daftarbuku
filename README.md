@@ -5,3 +5,5 @@ Penggunaan GIt
 - membuka project yang sudah diclone
 - merubah file
 - Mengirim File ke Github
+- merubah di git
+- mem pull ke local
